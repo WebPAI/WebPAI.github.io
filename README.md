@@ -1,9 +1,24 @@
-# Interaction2Code
+# WebPAI
 
 This is the repository that contains project website source code for the [interaction2code website](https://webpai.github.io).
-You can refer our work by [Interaction2Code](https://github.com/RobustNLP/CipherChat)
+You can refer our work:
+- DCGen: [DCGen](https://github.com/WebPAI/DCGen)
+- Interaction2Code: [Interaction2Code](https://github.com/WebPAI/Interaction2Code)
+- MRWeb: [MRWeb](https://github.com/WebPAI/MRWeb)
 
-If you find Interaction2Code useful for your work please cite:
+
+# Citation
+
+If you find our works are useful, please cite:
+
+- DCGen
+
+```
+
+
+```
+
+- Interaction2Code
 
 ```
 @article{xiao2024interaction2code,
@@ -12,6 +27,12 @@ If you find Interaction2Code useful for your work please cite:
   journal={arXiv preprint arXiv:2411.03292},
   year={2024}
 }
+
+```
+
+- MRWeb
+
+```
 
 ```
 
