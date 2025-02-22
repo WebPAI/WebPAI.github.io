@@ -22,10 +22,10 @@ If you find our works are useful, please cite:
 
 ```
 @article{xiao2024interaction2code,
-  title={Interaction2Code: How Far Are We From Automatic Interactive Webpage Generation?},
-  author={Xiao, Jingyu and Wan, Yuxuan and Huo, Yintong and Xu, Zhiyao and Lyu, Michael R},
-  journal={arXiv preprint arXiv:2411.03292},
-  year={2024}
+      title={Interaction2Code: Benchmarking MLLM-based Interactive Webpage Code Generation from Interactive Prototyping}, 
+      author={Jingyu Xiao and Yuxuan Wan and Yintong Huo and Zixin Wang and Xinyi Xu and Wenxuan Wang and Zhiyao Xu and Yuhang Wang and Michael R. Lyu},
+      journal={arXiv preprint arXiv:2411.03292},
+      year={2025}
 }
 
 ```
